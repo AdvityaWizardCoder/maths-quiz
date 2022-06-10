@@ -1,0 +1,61 @@
+body
+{
+	background-image: url("5fbb932de0752.jpeg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: wheat;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	color: orange;
+	font-family: 'Orbitron', cursive;
+}
+h3{
+	font-family: 'Orbitron';
+	color: teal;
+}
+label{
+	font-family: 'Orbitron', cursive;
+	color: rgb(252, 122, 0);
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div:hover{
+	border: 7px solid rgb(68, 2, 250);
+	width: 35%;
+}
